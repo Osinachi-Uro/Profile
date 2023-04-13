@@ -1,2 +1,3 @@
 # Profile
-My personal profile website content
+
+This repository contents my personal profile website files.
